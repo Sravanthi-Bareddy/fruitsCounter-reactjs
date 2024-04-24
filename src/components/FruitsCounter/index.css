@@ -1,0 +1,51 @@
+.fruits-bg-container {
+  background-color: #ffd569;
+  height: 100%;
+}
+.fruits-container {
+  background-color: #ffffff;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  margin: 5px;
+}
+.main-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+.count {
+  font-size: 32px;
+  color: #ffd569;
+}
+.mango-container {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+.mango {
+  height: 60%;
+  width: 30%;
+}
+.mango-btn {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 5px;
+}
+.banana-container {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+.banana {
+  height: 60%;
+  width: 30%;
+}
+.banana-btn {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 5px;
+}
